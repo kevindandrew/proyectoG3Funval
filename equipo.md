@@ -1,7 +1,14 @@
 <!-- Profesores -->
 
+<!-- Profesores -->
+
 Kevin Rodriguez
 
 <!-- alumnos -->
 
-jeff
+jeff  
+mahonri  
+Thomas  
+Steven Nuñez  
+Daniel Tudela
+
