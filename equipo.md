@@ -1,4 +1,4 @@
-<!-- Profesores -->
+
 
 <!-- Profesores -->
 
@@ -9,11 +9,13 @@ Kevin Rodriguez
 johan rodriguez
 
 
+edwin
+
+
 Kevin Mura
 Pablo Palacio :D
 mahonri
 Thomas
-
 Steven Nuñez
 Daniel Tudela
 Luis Daniel Ornelas Reyes
@@ -27,5 +29,3 @@ Thomas
 Steven Nuñez  
 Daniel Tudela
 felipe guerrero
-
-
