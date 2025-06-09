@@ -3,4 +3,10 @@
 Kevin Rodriguez
 
 <!-- alumnos -->
-Pablo Palacio
+
+Pablo Palacio :D
+mahonri
+Thomas
+Steven Nuñez
+Daniel Tudela
+
