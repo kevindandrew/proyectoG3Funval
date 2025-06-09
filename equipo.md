@@ -6,7 +6,11 @@ Kevin Rodriguez
 
 <!-- alumnos -->
 
-<=======Kevin Mura===}====o
+
+Kevin Mura
+Pablo Palacio :D
+mahonri
+Thomas
 Steven Nuñez
 Daniel Tudela
 Luis Daniel Ornelas Reyes
