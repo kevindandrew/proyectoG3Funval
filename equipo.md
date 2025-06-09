@@ -5,16 +5,10 @@
 Kevin Rodriguez
 
 <!-- alumnos -->
-
+carlo
 Woodleine Formetus
-
-
 johan rodriguez
-
-
 edwin
-
-
 Kevin Mura
 Pablo Palacio :D
 mahonri
@@ -25,11 +19,15 @@ Luis Daniel Ornelas Reyes
 Bastian Castillo
 juanaperez
 jeffersson homero melgar zaldaña
-
 Marco Arias
 jeff  
-mahonri  
-Thomas  
-Steven Nuñez  
-Daniel Tudela
 felipe guerrero
+
+
+
+
+
+
+
+
+
