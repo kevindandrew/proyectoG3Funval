@@ -8,9 +8,14 @@ Kevin Rodriguez
 
 
 
+
 Steven Nuñez
 Daniel Tudela
 Luis Daniel Ornelas Reyes
+
+
+Bastian Castillo
+juanaperez
 
 jeffersson homero melgar zaldaña
 Marco Arias
@@ -19,4 +24,8 @@ mahonri
 Thomas  
 Steven Nuñez  
 Daniel Tudela
+
+
+
+felipe guerrero
 
