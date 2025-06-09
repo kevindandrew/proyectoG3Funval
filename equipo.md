@@ -1,25 +1,16 @@
 <!-- Profesores -->
 
+<!-- Profesores -->
+
 Kevin Rodriguez
 
 <!-- alumnos -->
 
-
-
-
- 
-mahonri
-Thomas
-Steven Nuñez
+Alan Zalazar
+Marco Arias
+jeff  
+mahonri  
+Thomas  
+Steven Nuñez  
 Daniel Tudela
 
-
-
-
-
-
-
-
-
-
-Alan Zalazar
