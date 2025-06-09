@@ -1,4 +1,4 @@
-<!-- Profesores -->
+
 
 <!-- Profesores -->
 
@@ -6,8 +6,16 @@ Kevin Rodriguez
 
 <!-- alumnos -->
 
+johan rodriguez
+
 
 edwin
+
+
+Kevin Mura
+Pablo Palacio :D
+mahonri
+Thomas
 Steven Nuñez
 Daniel Tudela
 Luis Daniel Ornelas Reyes
