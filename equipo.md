@@ -1,11 +1,14 @@
 <!-- Profesores -->
 
+<!-- Profesores -->
+
 Kevin Rodriguez
 
 <!-- alumnos -->
- 
-mahonri
-Thomas
-Steven Nuñez
+
+jeff  
+mahonri  
+Thomas  
+Steven Nuñez  
 Daniel Tudela
 
