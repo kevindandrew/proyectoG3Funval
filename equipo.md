@@ -8,14 +8,28 @@ Kevin Rodriguez
 
 
 
+
 carlo
 
 
 
 
 
-juanaperez
 
+
+johan rodriguez
+
+
+Kevin Mura
+Pablo Palacio :D
+mahonri
+Thomas
+
+Steven Nuñez
+Daniel Tudela
+Luis Daniel Ornelas Reyes
+Bastian Castillo
+juanaperez
 jeffersson homero melgar zaldaña
 
 Marco Arias
@@ -25,6 +39,7 @@ mahonri
 Thomas  
 Steven Nuñez  
 Daniel Tudela
+felipe guerrero
 
 
 
@@ -34,5 +49,7 @@ Daniel Tudela
 
 
 felipe guerrero
+
+
 
 
